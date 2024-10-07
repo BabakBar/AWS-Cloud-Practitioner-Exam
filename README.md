@@ -1,6 +1,4 @@
 # AWS CCP - My Journey to 821
-![AWS Cloud Practitioner Exam Result]([AWS Certified Cloud Practitioner Score.png](https://github.com/BabakBar/AWS-Cloud-Practitioner-Exam/blob/main/AWS%20Certified%20Cloud%20Practitioner%20Score.png))
-
 ![AWS Cloud Practitioner Exam Result](https://github.com/BabakBar/AWS-Cloud-Practitioner-Exam/blob/main/AWS%20Certified%20Cloud%20Practitioner%20Score.png?raw=true)
 
 ## Introduction
