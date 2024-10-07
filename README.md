@@ -1,6 +1,8 @@
 # AWS CCP - My Journey to 821
 ![AWS Cloud Practitioner Exam Result]([AWS Certified Cloud Practitioner Score.png](https://github.com/BabakBar/AWS-Cloud-Practitioner-Exam/blob/main/AWS%20Certified%20Cloud%20Practitioner%20Score.png))
 
+![AWS Cloud Practitioner Exam Result](https://github.com/BabakBar/AWS-Cloud-Practitioner-Exam/blob/main/AWS%20Certified%20Cloud%20Practitioner%20Score.png?raw=true)
+
 ## Introduction
 
 This repo documents my journey to achieving a score of 821 on the AWS Cloud Practitioner exam. Hope these materials & approach help others ace the exam.
